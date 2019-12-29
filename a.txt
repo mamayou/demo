@@ -10,3 +10,4 @@ dev update
 77777
 fix bug
 local server update
+server update
